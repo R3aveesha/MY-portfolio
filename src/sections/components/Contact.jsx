@@ -43,7 +43,7 @@ const Contact = () => {
 
                             </a>
                             <a className='w-9 h-9  2xl:w-16' href="https://www.linkedin.com/in/raveesha-gimhan-8a7771302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raveesha" /></a>
-                            <a className='w-9 h-9  2xl:w-16' href="https://www.instagram.com/_.d_u_s_h_a_n._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Raveesha" /></a>
+                            <a className='w-9 h-9  2xl:w-16' href="https://www.instagram.com/raveeshamendis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Raveesha" /></a>
                             <a className='w-9 h-9  2xl:w-16' href="https://wa.me/94776501141" target="blank"><img align="center" src={wts} alt="Raveesha" /></a>
                             
                         
